@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Lê Hồng Sơn</h1>
 
 <h3 align="center">Backend Developer Student | Java | Database | SQL</h3>

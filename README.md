@@ -1,4 +1,4 @@
-<h1 align="center">🌐 SONLE.PRO</h1>
+<h1 align="center">🌐 Lê Hồng Sơn</h1>
 
 <h3 align="center">
 Backend Engineer Student | Java | PostgreSQL | Web Development

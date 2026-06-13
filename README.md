@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Lê Hồng Sơn
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0A192F,100:00C8FF&text=LÊ%20HỒNG%20SƠN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20Student%20|%20Java%20|%20Spring%20Boot%20|%20PostgreSQL&descAlignY=62"/>
 
-### Backend Engineer Student | Java | Spring Boot | PostgreSQL
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Learning+Java+%26+Spring+Boot;Building+Backend+Systems;Database+Design+with+PostgreSQL;Future+Backend+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Building+Backend+Systems...;Learning+Spring+Boot...;Designing+Databases...;Future+Backend+Engineer..." />
 
 </div>
 
@@ -12,139 +10,125 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lehongson270920050@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonle-dev)
-![Vietnam](https://img.shields.io/badge/Vietnam-0A192F?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Backend Developer](https://img.shields.io/badge/Backend%20Developer-0A192F?style=for-the-badge)
+![](https://img.shields.io/badge/Vietnam-0A192F?style=for-the-badge&logo=googlemaps&logoColor=00C8FF)
+
+![](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=00C8FF)
+
+![](https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=00C8FF)
+
+![](https://img.shields.io/badge/Spring%20Boot-0A192F?style=for-the-badge&logo=springboot&logoColor=00C8FF)
+
+![](https://komarev.com/ghpvc/?username=sonle-dev&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-# 🌐 Infrastructure Status
+# ⚡ SYSTEM STATUS
 
-```text
-┌───────────────────────────────────────────────┐
-│ SONLE.PRO BACKEND SYSTEM STATUS               │
-├───────────────────────────────────────────────┤
-│ API Gateway          ● ONLINE                 │
-│ Backend Service      ● ONLINE                 │
-│ PostgreSQL Database  ● ONLINE                 │
-│ GitHub Repository    ● ONLINE                 │
-│ Learning Progress    ● ACTIVE                 │
-│ Backend Roadmap      ● RUNNING                │
-└───────────────────────────────────────────────┘
+```yaml
+SYSTEM_NAME: Sonle
+
+API_GATEWAY:        ONLINE
+BACKEND_SERVICE:    ONLINE
+POSTGRESQL_DB:      ONLINE
+GITHUB_REPOSITORY:  ONLINE
+
+CURRENT_STATUS:     LEARNING
+TARGET_ROLE:        BACKEND_ENGINEER
+
+SPRING_BOOT:        IN_PROGRESS
+REST_API:           IN_PROGRESS
+DOCKER:             PLANNED
+AWS:                PLANNED
 ```
 
 ---
 
-# 🚀 Developer Profile
+# 👨‍💻 DEVELOPER.JSON
 
 ```json
 {
   "name": "Le Hong Son",
   "role": "Backend Developer Student",
   "location": "Vietnam",
-  "focus": "Web Backend Development",
+
+  "focus": [
+    "Backend Development",
+    "Database Design",
+    "REST API"
+  ],
 
   "main_stack": [
     "Java",
     "Spring Boot",
     "PostgreSQL",
-    "REST API",
-    "Git & GitHub"
+    "Git"
   ],
 
-  "current_goal": "Backend Internship"
+  "currently_learning": [
+    "Spring Boot",
+    "Security",
+    "JWT",
+    "Docker"
+  ],
+
+  "goal": "Backend Internship"
 }
 ```
 
 ---
 
-# ⚡ Technology Stack
+# 🛠 TECHNOLOGY STACK
 
-### Backend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,vscode,postman,docker&theme=dark"/>
 
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+</div>
 
 ---
 
-# 📚 Current Learning Progress
+# 🚀 BACKEND ROADMAP
 
 ```text
-Java Core             ████████████████████ 90%
-OOP                   ████████████████████ 90%
-SQL                   █████████████████████ 95%
-PostgreSQL            ████████████████████ 90%
-Spring Boot           ████████████░░░░░░░░ 60%
-REST API              ████████████░░░░░░░░ 60%
-JWT Security          ██████░░░░░░░░░░░░░░ 30%
-Docker                ████░░░░░░░░░░░░░░░░ 20%
+JAVA CORE        ████████████████████  95%
+
+OOP              ████████████████████  95%
+
+SQL              ████████████████████  95%
+
+POSTGRESQL       ███████████████████░  90%
+
+SPRING BOOT      ████████████░░░░░░░░  60%
+
+REST API         ███████████░░░░░░░░░  55%
+
+JWT SECURITY     ██████░░░░░░░░░░░░░░  30%
+
+DOCKER           ███░░░░░░░░░░░░░░░░░  15%
+
+AWS              ██░░░░░░░░░░░░░░░░░░  10%
 ```
 
 ---
 
-# 🎯 Backend Roadmap
-
-```text
-✅ Java Core
-
-✅ OOP
-
-✅ SQL
-
-✅ PostgreSQL
-
-🔄 Spring Boot
-
-🔄 REST API
-
-🔄 JWT Security
-
-⏳ Docker
-
-⏳ Redis
-
-⏳ CI/CD
-
-⏳ AWS
-```
-
----
-
-# 🏗️ Featured Project
+# 🏗 FEATURED PROJECT
 
 ## Rental Management Platform
 
-A web application for rental room management.
-
-### Features
-
-- Room Management
-- Tenant Management
-- Rental Contracts
-- Payment Tracking
-- Monthly Debt Monitoring
-- Statistics Dashboard
-- Notification System
-
-### Tech Stack
-
 ```text
+A platform for rental room management.
+
+✔ Room Management
+✔ Tenant Management
+✔ Rental Contracts
+✔ Payment Tracking
+✔ Debt Monitoring
+✔ Dashboard Analytics
+
+STACK
+
 Java
 Spring Boot
 PostgreSQL
@@ -154,45 +138,59 @@ GitHub
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sonle-dev&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonle-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sonle-dev&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sonle-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 ACTIVITY GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonle-dev&theme=tokyo-night"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonle-dev&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sonle-dev&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sonle-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 💡 Philosophy
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💭 PHILOSOPHY
 
 ```java
 while (!success) {
+
     learn();
+
     build();
+
     improve();
+
 }
 ```
 
@@ -200,8 +198,8 @@ while (!success) {
 
 <div align="center">
 
-### 🚀 Always Learning • Always Building
+### ⚡ ALWAYS LEARNING • ALWAYS BUILDING ⚡
 
-Backend Engineer in Progress
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:0A192F,100:00C8FF"/>
 
 </div>

@@ -1,197 +1,168 @@
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:0F172A,100:00D9FF&text=LÊ%20HỒNG%20SƠN&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Backend%20Engineer%20Student%20•%20Java%20•%20Spring%20Boot%20•%20PostgreSQL&descSize=18&descAlignY=63"/>
+<img src="./assets/logo.png" width="220"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+in+Progress;Java+%7C+Spring+Boot+%7C+PostgreSQL;Building+Real+Backend+Systems;Learning+Everyday+%E2%9A%A1+Building+Everyday" />
+# ⚡ SONLEDEV
+
+### Backend Command Center
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=1000&lines=Initializing+Backend+Systems...;Connecting+PostgreSQL+Database...;Loading+Spring+Boot+Environment...;Building+Real+Projects...;Welcome+to+SONLEDEV..." />
+
+<br>
+
+<img src="https://img.shields.io/badge/JAVA-0A192F?style=for-the-badge&logo=openjdk&logoColor=00C8FF"/>
+
+<img src="https://img.shields.io/badge/SPRING_BOOT-0A192F?style=for-the-badge&logo=springboot&logoColor=00C8FF"/>
+
+<img src="https://img.shields.io/badge/POSTGRESQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=00C8FF"/>
+
+<img src="https://img.shields.io/badge/BACKEND_ENGINEER-0A192F?style=for-the-badge&logo=github&logoColor=00C8FF"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00D9FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FOCUS-BACKEND-00D9FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LOCATION-VIETNAM-00D9FF?style=for-the-badge&labelColor=020617"/>
-<img src="https://komarev.com/ghpvc/?username=sonle-dev&style=for-the-badge&color=00D9FF"/>
-
-</div>
-
----
-
-## ⚡ SONLE.DEV SYSTEM
+## ⚡ SYSTEM STATUS
 
 ```yaml
-SYSTEM:
-  name: SONLE.DEV
-  mode: BACKEND_ENGINEER_STUDENT
-  status: ACTIVE
-  location: VIETNAM
+SYSTEM_NAME: SONLEDEV
+
+STATUS: ACTIVE
+
+MODE: BACKEND_ENGINEER
+
+LOCATION: VIETNAM
 
 SERVICES:
-  api_gateway: ONLINE
-  backend_service: LEARNING
-  database_service: ONLINE
-  github_repository: ONLINE
-  spring_boot_runtime: IN_PROGRESS
 
-CURRENT_TARGET:
-  role: BACKEND_INTERNSHIP
-  stack: JAVA_SPRING_BOOT_POSTGRESQL
-```
+  API_GATEWAY: ONLINE
+
+  DATABASE: ONLINE
+
+  GITHUB: ONLINE
+
+  LEARNING_ENGINE: ACTIVE
+
+  RENTAL_PLATFORM: DEVELOPMENT
+
+  BACKEND_ROADMAP: RUNNING
+````
 
 ---
 
-## 👨‍💻 DEVELOPER PROFILE
+## 👨‍💻 DEVELOPER.JSON
 
 ```json
 {
   "name": "Le Hong Son",
-  "role": "Backend Developer Student",
-  "location": "Vietnam",
-  "focus": "Backend Development",
+  "alias": "SonLeDev",
 
-  "main_stack": [
+  "role": "Backend Developer Student",
+
+  "specialization": [
     "Java",
     "Spring Boot",
     "PostgreSQL",
     "REST API"
   ],
 
-  "tools": [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman"
-  ],
+  "current_project": "Rental Management Platform",
 
-  "mindset": "Always learning, always building"
+  "goal": "Backend Engineer",
+
+  "status": "Always Building"
 }
 ```
 
 ---
 
-## 🧠 TECH CORE
+## 🛠 TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,vscode,postman,docker,html,css,js&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,vscode,postman,docker&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 BACKEND ROADMAP
+## 🚀 CURRENT MISSION
 
-```text
-Java Core        ████████████████████  95%
-OOP              ████████████████████  95%
-SQL              ████████████████████  95%
-PostgreSQL       ███████████████████░  90%
-Spring Boot      ████████████░░░░░░░░  60%
-REST API         ███████████░░░░░░░░░  55%
-JWT Security     ██████░░░░░░░░░░░░░░  30%
-Docker           ████░░░░░░░░░░░░░░░░  20%
-AWS              ██░░░░░░░░░░░░░░░░░░  10%
+```yaml
+MISSION_2026:
+
+  COMPLETE_SPRING_BOOT: TRUE
+
+  BUILD_REAL_PROJECTS: TRUE
+
+  GET_BACKEND_INTERNSHIP: TRUE
+
+  MASTER_DATABASE_DESIGN: TRUE
+
+  DEPLOY_FIRST_SYSTEM: TRUE
 ```
 
 ---
 
-## 🏗️ FEATURED PROJECT
+## 🏗 FEATURED PROJECT
 
-### Rental Management Platform
+### RENTAL MANAGEMENT PLATFORM
 
 ```text
-A backend-focused rental room management system.
+STATUS:
+ACTIVE DEVELOPMENT
+
+DESCRIPTION:
+
+Modern rental room management platform
+for landlords and tenants.
 
 FEATURES:
-  ✔ Room Management
-  ✔ Tenant Management
-  ✔ Rental Contracts
-  ✔ Payment Tracking
-  ✔ Monthly Debt Monitoring
-  ✔ Dashboard Statistics
+
+✓ Room Management
+
+✓ Tenant Management
+
+✓ Contract Management
+
+✓ Payment Tracking
+
+✓ Monthly Debt Monitoring
+
+✓ Dashboard Analytics
 
 TECH STACK:
-  Java
-  Spring Boot
-  PostgreSQL
-  REST API
-  GitHub
+
+Java
+Spring Boot
+PostgreSQL
+REST API
 ```
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sonle-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00D9FF&icon_color=00D9FF"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonle-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00D9FF"/>
-
-</div>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sonle-dev&theme=tokyonight&hide_border=true&background=020617&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
-
-</div>
-
----
-
-## 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonle-dev&theme=react-dark&hide_border=true&bg_color=020617&color=00D9FF&line=00D9FF&point=FFFFFF"/>
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sonle-dev&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sonle-dev/sonle-dev/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-## 💻 CODE MODE
+## 💻 CODE PHILOSOPHY
 
 ```java
-public class BackendEngineer {
+public class SonLeDev {
 
     public static void main(String[] args) {
-        while (true) {
+
+        while(true) {
+
             learn();
+
             build();
+
             improve();
+
         }
+
     }
 
 }
 ```
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Code.+Debug.+Learn.+Repeat.;Backend+Engineer+in+Progress;See+you+in+production+%F0%9F%9A%80" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,50:0F172A,100:00D9FF"/>
-
-</div>
+```
+```

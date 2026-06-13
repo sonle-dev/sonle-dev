@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0A192F,100:00C8FF&text=LÊ%20HỒNG%20SƠN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20Student%20|%20Java%20|%20Spring%20Boot%20|%20PostgreSQL&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,50:0F172A,100:00D9FF&text=LÊ%20HỒNG%20SƠN&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Backend%20Engineer%20Student%20•%20Java%20•%20Spring%20Boot%20•%20PostgreSQL&descSize=18&descAlignY=63"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Building+Backend+Systems...;Learning+Spring+Boot...;Designing+Databases...;Future+Backend+Engineer..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+in+Progress;Java+%7C+Spring+Boot+%7C+PostgreSQL;Building+Real+Backend+Systems;Learning+Everyday+%E2%9A%A1+Building+Everyday" />
 
 </div>
 
@@ -10,186 +10,178 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Vietnam-0A192F?style=for-the-badge&logo=googlemaps&logoColor=00C8FF)
-
-![](https://img.shields.io/badge/Java-0A192F?style=for-the-badge&logo=openjdk&logoColor=00C8FF)
-
-![](https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=00C8FF)
-
-![](https://img.shields.io/badge/Spring%20Boot-0A192F?style=for-the-badge&logo=springboot&logoColor=00C8FF)
-
-![](https://komarev.com/ghpvc/?username=sonle-dev&style=for-the-badge&color=blue)
+<img src="https://img.shields.io/badge/STATUS-LEARNING-00D9FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-00D9FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/LOCATION-VIETNAM-00D9FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://komarev.com/ghpvc/?username=sonle-dev&style=for-the-badge&color=00D9FF"/>
 
 </div>
 
 ---
 
-# ⚡ SYSTEM STATUS
+## ⚡ SONLE.DEV SYSTEM
 
 ```yaml
-SYSTEM_NAME: SONLE.PRO
+SYSTEM:
+  name: SONLE.DEV
+  mode: BACKEND_ENGINEER_STUDENT
+  status: ACTIVE
+  location: VIETNAM
 
-API_GATEWAY:        ONLINE
-BACKEND_SERVICE:    ONLINE
-POSTGRESQL_DB:      ONLINE
-GITHUB_REPOSITORY:  ONLINE
+SERVICES:
+  api_gateway: ONLINE
+  backend_service: LEARNING
+  database_service: ONLINE
+  github_repository: ONLINE
+  spring_boot_runtime: IN_PROGRESS
 
-CURRENT_STATUS:     LEARNING
-TARGET_ROLE:        BACKEND_ENGINEER
-
-SPRING_BOOT:        IN_PROGRESS
-REST_API:           IN_PROGRESS
-DOCKER:             PLANNED
-AWS:                PLANNED
+CURRENT_TARGET:
+  role: BACKEND_INTERNSHIP
+  stack: JAVA_SPRING_BOOT_POSTGRESQL
 ```
 
 ---
 
-# 👨‍💻 DEVELOPER.JSON
+## 👨‍💻 DEVELOPER PROFILE
 
 ```json
 {
   "name": "Le Hong Son",
   "role": "Backend Developer Student",
   "location": "Vietnam",
-
-  "focus": [
-    "Backend Development",
-    "Database Design",
-    "REST API"
-  ],
+  "focus": "Backend Development",
 
   "main_stack": [
     "Java",
     "Spring Boot",
     "PostgreSQL",
-    "Git"
+    "REST API"
   ],
 
-  "currently_learning": [
-    "Spring Boot",
-    "Security",
-    "JWT",
-    "Docker"
+  "tools": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Postman"
   ],
 
-  "goal": "Backend Internship"
+  "mindset": "Always learning, always building"
 }
 ```
 
 ---
 
-# 🛠 TECHNOLOGY STACK
+## 🧠 TECH CORE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,vscode,postman,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,vscode,postman,docker,html,css,js&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 BACKEND ROADMAP
+## 🚀 BACKEND ROADMAP
 
 ```text
-JAVA CORE        ████████████████████  95%
-
+Java Core        ████████████████████  95%
 OOP              ████████████████████  95%
-
 SQL              ████████████████████  95%
-
-POSTGRESQL       ███████████████████░  90%
-
-SPRING BOOT      ████████████░░░░░░░░  60%
-
+PostgreSQL       ███████████████████░  90%
+Spring Boot      ████████████░░░░░░░░  60%
 REST API         ███████████░░░░░░░░░  55%
-
-JWT SECURITY     ██████░░░░░░░░░░░░░░  30%
-
-DOCKER           ███░░░░░░░░░░░░░░░░░  15%
-
+JWT Security     ██████░░░░░░░░░░░░░░  30%
+Docker           ████░░░░░░░░░░░░░░░░  20%
 AWS              ██░░░░░░░░░░░░░░░░░░  10%
 ```
 
 ---
 
-# 🏗 FEATURED PROJECT
+## 🏗️ FEATURED PROJECT
 
-## Rental Management Platform
+### Rental Management Platform
 
 ```text
-A platform for rental room management.
+A backend-focused rental room management system.
 
-✔ Room Management
-✔ Tenant Management
-✔ Rental Contracts
-✔ Payment Tracking
-✔ Debt Monitoring
-✔ Dashboard Analytics
+FEATURES:
+  ✔ Room Management
+  ✔ Tenant Management
+  ✔ Rental Contracts
+  ✔ Payment Tracking
+  ✔ Monthly Debt Monitoring
+  ✔ Dashboard Statistics
 
-STACK
-
-Java
-Spring Boot
-PostgreSQL
-REST API
-GitHub
+TECH STACK:
+  Java
+  Spring Boot
+  PostgreSQL
+  REST API
+  GitHub
 ```
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonle-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sonle-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00D9FF&icon_color=00D9FF"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sonle-dev&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonle-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00D9FF"/>
+
+</div>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sonle-dev&theme=tokyonight&hide_border=true&background=020617&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
 ---
 
-# 📈 ACTIVITY GRAPH
+## 📈 ACTIVITY GRAPH
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonle-dev&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonle-dev&theme=react-dark&hide_border=true&bg_color=020617&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENTS
+## 🏆 ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sonle-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sonle-dev&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sonle-dev/sonle-dev/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# 💭 PHILOSOPHY
+## 💻 CODE MODE
 
 ```java
-while (!success) {
+public class BackendEngineer {
 
-    learn();
-
-    build();
-
-    improve();
+    public static void main(String[] args) {
+        while (true) {
+            learn();
+            build();
+            improve();
+        }
+    }
 
 }
 ```
@@ -198,8 +190,8 @@ while (!success) {
 
 <div align="center">
 
-### ⚡ ALWAYS LEARNING • ALWAYS BUILDING ⚡
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Code.+Debug.+Learn.+Repeat.;Backend+Engineer+in+Progress;See+you+in+production+%F0%9F%9A%80" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,50:0A192F,100:00C8FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:020617,50:0F172A,100:00D9FF"/>
 
 </div>

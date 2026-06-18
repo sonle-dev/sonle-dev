@@ -84,7 +84,30 @@ Java • Spring Boot • PostgreSQL • REST API • Git • Docker
                PostgreSQL
               Data Storage
 ```
+---
 
+# Current Stack
+
+### Working With
+
+* Java Core
+* PostgreSQL
+* Database Design
+* SQL
+
+### Currently Learning
+
+* Spring Boot
+* REST API Development
+
+### Learning Next
+
+* Spring Security
+* JWT Authentication
+* Docker
+* AWS
+
+---
 
 
 # Current Project

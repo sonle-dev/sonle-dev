@@ -164,9 +164,18 @@ Backend Engineer
 
 </div>
 
+
+---
+# Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonle-dev&theme=github-dark&hide_border=true"/>
+
+</div>
+
 ---
 
-dd
 
 # Engineering Philosophy
 
